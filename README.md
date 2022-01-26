@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there, I'm Ornrakorn. 👋  
+
+Hello Welcome to my profile! my name is Ornrakorn Mekchaiporn and I'm a college student at King Mongkut's University of Technology Thonburi and Chulabhorn Royal Academy in Health Data Science.
+
+
+
+
 
 <!--
 **mill-ornrakorn/mill-ornrakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
