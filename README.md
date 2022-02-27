@@ -2,7 +2,9 @@
 
 Hello Welcome to my profile! my name is Ornrakorn Mekchaiporn and I'm a college student at King Mongkut's University of Technology Thonburi and Chulabhorn Royal Academy in Health Data Science.
 
-I'm interested in:
+<img src="https://media2.giphy.com/media/PowPs3nkR1PwJCPqtc/giphy.gif" align="right" width="250" height="200" />
+
+ I'm interested in:
 - 💻 Machine Learning
 - 🗂️ Big data
 - 📊 Data visualization
@@ -11,7 +13,9 @@ I'm interested in:
 
 
 
+## Stats ✨
 ![mill-ornrakorn's Github Stats](https://github-readme-stats.vercel.app/api?username=mill-ornrakorn&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mill-ornrakorn&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mill-ornrakorn.mill-ornrakorn)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mill-ornrakorn.mill-ornrakorn) 
