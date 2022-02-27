@@ -1,6 +1,6 @@
 ## Hi there, I'm Ornrakorn. 👋  
 
-Hello Welcome to my profile! my name is Ornrakorn Mekchaiporn and I'm a college student at King Mongkut's University of Technology Thonburi and Chulabhorn Royal Academy in Health Data Science.
+<img src="https://media0.giphy.com/media/dXSX78fEcQ4aEpvW44/giphy.gif" width="35"> Hello Welcome to my profile! my name is Ornrakorn Mekchaiporn and I'm a college student at King Mongkut's University of Technology Thonburi and Chulabhorn Royal Academy in Health Data Science.
 
 <img src="https://media2.giphy.com/media/PowPs3nkR1PwJCPqtc/giphy.gif" align="right" width="250" height="200" />
 
