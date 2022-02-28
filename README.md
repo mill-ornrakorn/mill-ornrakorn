@@ -14,8 +14,8 @@
 
 
 ## Stats ✨
-![mill-ornrakorn's Github Stats](https://github-readme-stats.vercel.app/api?username=mill-ornrakorn&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mill-ornrakorn&hide=TeX&layout=compact)
+![mill-ornrakorn's Github Stats](https://github-readme-stats.vercel.app/api?username=mill-ornrakorn&theme=buefy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mill-ornrakorn&theme=buefy&hide=TeX&layout=compact)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mill-ornrakorn.mill-ornrakorn) 
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mill-ornrakorn.mill-ornrakorn) -->
