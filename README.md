@@ -6,7 +6,8 @@
 
  💬 I'm interested in:
  ``` 
- topics = [ "💻 Machine Learning", "📊 Data visualization", "🎨 UX/UI Design",
+ topics = ["💻 Data Science", "🤖 Machine Learning", "📊 Data Visualization", 
+           "🎨 Graphic Design" ,"📏 UX/UI Design", "✨ Infographic"
            "🔍 Business Intelligence", "🧪 Biostatistics and Epidemiology" ]
  ```
 
