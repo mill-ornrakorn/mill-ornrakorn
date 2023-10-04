@@ -1,5 +1,5 @@
 ## Hi there, I'm Ornrakorn. 👋  
-<img src="https://media0.giphy.com/media/dXSX78fEcQ4aEpvW44/giphy.gif" width="35"> Hello welcome to my profile! I'm Ornrakorn Mekchaiporn, a Health Data Scientist who recently graduated from Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy, and King Mongkut's University of Technology Thonburi. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+<img src="https://media0.giphy.com/media/dXSX78fEcQ4aEpvW44/giphy.gif" width="35"> Hello welcome to my profile! I'm Ornrakorn Mekchaiporn, a Health Data Scientist who recently graduated from Princess Srisavangavadhana College of Medicine, [Chulabhorn Royal Academy](https://www.cra.ac.th/en/home), and [King Mongkut's University of Technology Thonburi](https://www.kmutt.ac.th/en/). <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 <img src="https://media2.giphy.com/media/PowPs3nkR1PwJCPqtc/giphy.gif" align="right" width="250" height="200" />
 
@@ -32,7 +32,7 @@
   <a href="https://ggplot2.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://bookdown.org/somsak_c/data_visualization_with_r_programming/chapter8/ggplo2logo.png" alt="ggplot2" height="40" /></a>  
   <a href="https://datastorm-open.github.io/shinymanager/" target="_blank"><img style="margin: 10px" src="https://datastorm-open.github.io/shinymanager/reference/figures/shinymanager.png" alt="shinymanager" height="40" /></a>  
   <a href="https://rinterface.github.io/shinyMobile/" target="_blank"><img style="margin: 10px" src="https://rinterface.github.io/shinyMobile/reference/figures/logo.png" alt="shinyMobile" height="40" /></a> 
-  <a href="https://www.r-inla.org/" target="_blank"><img style="margin: 10px" src="https://lh3.googleusercontent.com/dpm2BnVQVm5HLWR4CSgN2-c7Jy4CKEze-kWAq6D1049Msq9EaDChmOzYc1meR0vpsdRiyw=w16383" alt="INLA" height="40" /></a>  
+  <a href="https://www.r-inla.org/" target="_blank"><img style="margin: 10px" src="https://lh3.googleusercontent.com/GJmrSEVSKVnDJPz5HykhyNs02Biq6BqGdU4fzIfdcddFGEXwc1bENXjqdkj3BLuREy09r4dc5mlENr3h33MA4XJubxiRwXfvN0bxnAVrFguNq_SQyfCU_4Va4w8XgD2sSQ=w1280" alt="INLA" height="40" /></a>  
   <a href="https://rapidminer.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4490278?s=280&v=4" alt="rapidminer" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power-BI"  height="40"/> </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau"  height="40"/> </a> 
