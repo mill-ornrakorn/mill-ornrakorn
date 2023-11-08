@@ -3,7 +3,7 @@
 
 <img src="https://media2.giphy.com/media/PowPs3nkR1PwJCPqtc/giphy.gif" align="right" width="250" height="200" />
 
-- 🌱 I’m currently learning Python, R, HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning Image Processing, Machine Learning, and R.
 - 💬 I'm interested in:
  ``` py
  topics = ["💻 Data Science", "🤖 Machine Learning", "📊 Data Visualization", 
