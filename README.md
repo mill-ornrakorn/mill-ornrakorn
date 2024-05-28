@@ -13,6 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mill-ornrakorn).
 - 📝 Check out [my portfolio](https://mill-ornrakorn.github.io/my-portfolio-website/) for more information <img src="https://p6.itc.cn/q_70/images03/20220217/dcb33e8ef3cd47168f6358eb0e2257d2.gif" width="20" />
+- 📋 Publication:
+  
+  >  Investigating the spatiotemporal patterns and clustering of attendances for mental health services to inform policy and resource allocation in Thailand
+  [(read more)](https://ijmhs.biomedcentral.com/articles/10.1186/s13033-024-00639-5)
+
 
 ## Stats ✨
 | ![mill-ornrakorn's Github Stats](https://github-readme-stats.vercel.app/api?username=mill-ornrakorn&theme=buefy&show_icons=true&rank_icon=github&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mill-ornrakorn&theme=buefy&hide=TeX&layout=compact&hide_border=true&hide_progress=true) |
