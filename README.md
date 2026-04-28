@@ -5,7 +5,7 @@
 <img src="https://media2.giphy.com/media/PowPs3nkR1PwJCPqtc/giphy.gif" align="right" width="220" />
 
 - 🎓 **Education:** B.S. in Health Data Science (2nd Class Honors)
-  *A collaborative program between **Princess Srisavangavadhana College of Medicine (CRA)** and **KMUTT***
+  *A collaborative program between the Princess Srisavangavadhana Faculty of Medicine, Chulabhorn Royal Academy (CRA) and King Mongkut's University of Technology Thonburi (KMUTT)*
 - 🤖 **Main Focus:** Deep Learning, Machine Learning, and Predictive Modeling.
 - 📊 **Visualization:** Developing Interactive Dashboards & Business Intelligence solutions for complex data.
 - 🌱 **Currently Learning:** Advanced Image Processing and AI deployment.
@@ -13,14 +13,14 @@
 
 ---
 
-### 🧪 Research Publications
+### 📑 Research Publications
 *While my focus is on AI and Data Science, I have contributed to several peer-reviewed studies:* <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-1. Chawarat Rotejanaprasert, Chiraphat Phoncharoenwirot, Papin Thanutchapat, **Ornrakorn Mekchaiporn**, Peerut Chienwichai, Terdsak Detkong, & Richard James Maude. (Oct 2025). **Spatiotemporal epidemiology and hierarchical analysis of suicide mortality and associated risk factors in Thailand using national surveillance data during 1997–2021.** *Scientific Reports*, 15(1), 35220. [[Read Paper]](https://doi.org/10.1038/s41598-025-20481-0)
+1. Chawarat Rotejanaprasert, Chiraphat Phoncharoenwirot, Papin Thanutchapat, **Ornrakorn Mekchaiporn**, Peerut Chienwichai, Terdsak Detkong, & Richard James Maude. (Oct 2025). **Spatiotemporal epidemiology and hierarchical analysis of suicide mortality and associated risk factors in Thailand using national surveillance data during 1997–2021.** *Scientific Reports*. [[Read Paper]](https://doi.org/10.1038/s41598-025-20481-0)
 
-2. Chawarat Rotejanaprasert, Papin Thanutchapat, Chiraphat Phoncharoenwirot, **Ornrakorn Mekchaiporn**, Peerut Chienwichai, & Richard J. Maude. (Apr 2025). **Global spatiotemporal analysis of suicide epidemiology and risk factor associations from 2000 to 2019 using Bayesian space time hierarchical modeling.** *Scientific Reports*, 15(1), 12785. [[Read Paper]](https://doi.org/10.1038/s41598-025-97064-6)
+2. Chawarat Rotejanaprasert, Papin Thanutchapat, Chiraphat Phoncharoenwirot, **Ornrakorn Mekchaiporn**, Peerut Chienwichai, & Richard J. Maude. (Apr 2025). **Global spatiotemporal analysis of suicide epidemiology and risk factor associations from 2000 to 2019 using Bayesian space time hierarchical modeling.** *Scientific Reports*. [[Read Paper]](https://doi.org/10.1038/s41598-025-97064-6)
 
-3. Chawarat Rotejanaprasert, Papin Thanutchapat, Chiraphat Phoncharoenwirot, **Ornrakorn Mekchaiporn**, Peerut Chienwichai, & Richard J Maude. (May 2024). **Investigating the spatiotemporal patterns and clustering of attendances for mental health services to inform policy and resource allocation in Thailand.** *International Journal of Mental Health Systems*, 18(1), 19. [[Read Paper]](https://doi.org/10.1186/s13033-024-00639-5)
+3. Chawarat Rotejanaprasert, Papin Thanutchapat, Chiraphat Phoncharoenwirot, **Ornrakorn Mekchaiporn**, Peerut Chienwichai, & Richard J Maude. (May 2024). **Investigating the spatiotemporal patterns and clustering of attendances for mental health services to inform policy and resource allocation in Thailand.** *International Journal of Mental Health Systems*. [[Read Paper]](https://doi.org/10.1186/s13033-024-00639-5)
 ---
 
 ### 🛠️ Tools & Technologies
